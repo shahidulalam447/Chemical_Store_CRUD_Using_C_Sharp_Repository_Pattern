@@ -1,0 +1,16 @@
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.exe.config
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.exe
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.pdb
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.AssemblyReference.cache
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.SuggestedBindingRedirects.cache
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.CoreCompileInputs.cache
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.exe
+E:\C#dotNet\Project\1272289-CS-PNTL-M-53-01-Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.pdb
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.exe.config
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.exe
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\bin\Debug\Chemical_Store_1272289.pdb
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.AssemblyReference.cache
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.SuggestedBindingRedirects.cache
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.csproj.CoreCompileInputs.cache
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.exe
+G:\Project_IsDB\1272289Project_02_C_Sharp\Repository_pattern_project\Chemical_Store_1272289\obj\Debug\Chemical_Store_1272289.pdb
